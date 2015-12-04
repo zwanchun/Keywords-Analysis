@@ -11,7 +11,9 @@ The purpose of this program is:
 2 Design: see picture in README.docx
 
 3	Implementation
+
 There are 6 classes in the program:
+
 3.1	Stopwords
 Stopwords class generates stopwords set(Using HashSet<String> to store stopwords list)
 input: file path of stopwords(optional)
